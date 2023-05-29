@@ -19,28 +19,6 @@ cd todolist
 
 npm install
 
-TodoList
-Description
-
-TodoList is a simple web application built using React.js and Tailwind CSS. It provides a user-friendly interface for managing and organizing tasks or to-do items. The application allows users to view a list of todos and add new ones using an input field.
-Installation
-
-    Clone the repository to your local machine using the following command:
-
-    bash
-
-git clone https://github.com/your-username/todolist.git
-
-Navigate to the project directory:
-
-bash
-
-cd todolist
-
-Install the dependencies by running the following command:
-
-npm install
-
 4.Start the development server:
 
 npm start
