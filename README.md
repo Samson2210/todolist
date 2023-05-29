@@ -9,19 +9,19 @@ TodoList is a simple web application built using React.js and Tailwind CSS. It p
 
 1. Clone the repository to your local machine using the following command:
 
-  git clone https://github.com/Samson2210/todolist.git
+       git clone https://github.com/Samson2210/todolist.git
 
 2. Navigate to the project directory:
+      
+       cd todolist
 
-  cd todolist
+ 3.Install the dependencies by running the following command:
 
-3.Install the dependencies by running the following command:
+    npm install
 
-  npm install
+ 4.Start the development server:
 
-4.Start the development server:
-
-  npm start
+    npm start
 
 ## Features
 
